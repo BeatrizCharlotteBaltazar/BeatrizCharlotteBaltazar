@@ -16,8 +16,14 @@ Yours truly,
 
 future CLOUD ENGR, Beatriz <3
 
+
+
+
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 IG: bae.bltzr
+
 FB: Beatriz Charlotte Baltazar
+
 ✉: beatrizcalebralbaltazar@gmail.com
+
