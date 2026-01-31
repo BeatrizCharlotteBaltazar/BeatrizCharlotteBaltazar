@@ -6,9 +6,10 @@ My projects are heavily focus on boosting productivity with an amazing UI.
 
 For now, I am currently working on 2 personal projects SOREN IS HUNGRY! (game) and AURA (productivity app).
 
-I use C, C++, Phyton, Javascript. 
+I use C, C++, Phyton, Java, and Javascript. 
 
 Also uses HTML and CSS
+
 
 
 Yours truly,
