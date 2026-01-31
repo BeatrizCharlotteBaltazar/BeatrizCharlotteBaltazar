@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**BeatrizCharlotteBaltazar/BeatrizCharlotteBaltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Beatriz Charlotte Baltazar a 2nd Year IT student!
+My projects are heavily focus on boosting productivity with an amazing UI. 
+For now, I am currently working on 2 personal projects SOREN IS HUNGRY! (game) and AURA (productivity app).
+I use C, C++, Phyton, Javascript. 
+Also uses HTML and CSS
 
-Here are some ideas to get you started:
+IG: bae.bltzr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Yours truly,
+future CLOUD ENGR, Beatriz <3
+
+
