@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ⋆˚꩜｡
 
 I'm Beatriz Charlotte Baltazar a 2nd Year IT student!
 
@@ -11,11 +11,13 @@ I use C, C++, Phyton, Javascript.
 Also uses HTML and CSS
 
 
-IG: bae.bltzr
-
 Yours truly,
 
 
 future CLOUD ENGR, Beatriz <3
 
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
+IG: bae.bltzr
+FB: Beatriz Charlotte Baltazar
+✉: beatrizcalebralbaltazar@gmail.com
